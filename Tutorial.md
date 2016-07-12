@@ -125,3 +125,4 @@ How do we create these helpful tutorials on github, with headers, links, images,
 * GitHub curated page of [learning resources](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * At the bottom of all GitHub documentation, there is an button to[Contact a Human](https://github.com/contact)
 * [Markdown](http://daringfireball.net/projects/markdown/) documentation and official site.
+* Code Academy [Git tutorial](https://www.codecademy.com/learn/learn-git) 
